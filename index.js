@@ -65,3 +65,5 @@ function converterEmHoras(tempo) {
     return (tempo / 60) + " shoras"
 }
 console.log(converterEmHoras(450));
+
+// fim do exercicio
